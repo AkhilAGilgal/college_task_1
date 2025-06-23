@@ -16,7 +16,7 @@ const eventsData = [
         paymentLink: "https://pay.google.com/your-payment-link" 
     },
     {
-        name: "Entrepreneurship Summit",
+        name: "Figma Workshop - Kavaj x MuLearn",
         date: "December 25, 2025",
         description: "Master the essentials of Figma for collaborative UI/UX design in this hands-on two day workshop.",
         image: "https://blog.greggant.com/images/posts/2019-04-25-figma/Figma.png",
